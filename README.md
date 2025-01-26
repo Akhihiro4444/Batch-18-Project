@@ -5,16 +5,15 @@ Project Overview
 This project demonstrates how to host a static website using Azure Storage Accounts, an efficient and cost-effective solution for deploying static web content such as HTML, CSS, JavaScript, and images. By leveraging Azure's built-in static website hosting feature, users can create scalable and reliable websites without the need for a dedicated web server.
 
 Problem Statement
+
 Hosting a static website on Azure Storage is a straightforward, cost-effective solution for lightweight web applications like personal blogs, portfolios, or documentation. This guide walks you through the process of creating and deploying a static website using Azure's Storage Account service.
 
 Project Goals
-To demonstrate the setup of a static website hosting environment using Azure Storage.
 
-To provide step-by-step guidance for deploying static content with minimal overhead.
-
-To highlight optional enhancements, such as custom domain integration and HTTPS configuration, for a professional-grade website.
-
-To ensure a secure, scalable, and user-friendly hosting solution for static web content.
+- To demonstrate the setup of a static website hosting environment using Azure Storage.
+- To provide step-by-step guidance for deploying static content with minimal overhead.
+- To highlight optional enhancements, such as custom domain integration and HTTPS configuration, for a professional-grade website.
+- To ensure a secure, scalable, and user-friendly hosting solution for static web content.
 
 Technologies and Azure Services Used
 Technologies
@@ -46,6 +45,7 @@ Website Home Page Screenshot
 ![image](https://github.com/user-attachments/assets/e0819d07-9d68-4874-a6d3-387a184ad357)
 
 Conclusion
+
 By following the steps above, you can successfully host a static website on Azure Storage Account. This solution is ideal for lightweight, static content with minimal setup and maintenance. 
 
    
