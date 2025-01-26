@@ -49,6 +49,9 @@ A Storage Account serves as the foundation for hosting static websites.
  ![image](https://github.com/user-attachments/assets/648565b1-e65d-48fd-9b65-3de8d9779ec9)
 3. Fill in the required details: 
     ▪ Subscription: Select the subscription under which the resource will be billed.
-    
+
+    ![image](https://github.com/user-attachments/assets/cb36c9d5-7bab-40e4-8887-741afdb76e5e)
+
+
 
 
