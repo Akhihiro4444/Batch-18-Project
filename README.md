@@ -25,23 +25,28 @@ Azure CLI (Optional, for command-line management)
 
 Azure Services
 
-Azure Storage Account:
+- Azure Storage Account:
 
 Used to host the static website and store website files in the $web container.
 
-Azure CDN (Optional):
+- Azure CDN (Optional):
 
 To enable HTTPS and improve performance through content delivery optimization.
 
-Azure DNS (Optional):
+- Azure DNS (Optional):
 
 For integrating custom domains and managing DNS records.
 
 Live Website and Resources
-Website Link: crypto-master
+Website Link: Mediplus
 
 Screenshots: Created Resource Group Screenshot
 
+![image](https://github.com/user-attachments/assets/0270e7bc-2138-4dcc-bfa9-e684ddfc915c)
+
+![image](https://github.com/user-attachments/assets/fbd02e4b-ef28-4a45-be2c-b7021b109ae2)
+
+![image](https://github.com/user-attachments/assets/e0819d07-9d68-4874-a6d3-387a184ad357)
 
    
    
