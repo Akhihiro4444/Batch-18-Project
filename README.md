@@ -37,20 +37,14 @@ Azure DNS (Optional):
 
 For integrating custom domains and managing DNS records.
 
-Project Steps
-1. Create a Storage Account.
-A Storage Account serves as the foundation for hosting static websites.
-    • Steps to create a Storage Account: 
-        1. Open the Azure Portal and navigate to Storage Accounts.
+Live Website and Resources
+Website Link: crypto-master
 
-   ![image](https://github.com/user-attachments/assets/9138bb4e-a64b-45d2-8f7b-7025b7563608)
-2. Click Create to start the creation process.
+Screenshots: Created Resource Group Screenshot
 
- ![image](https://github.com/user-attachments/assets/648565b1-e65d-48fd-9b65-3de8d9779ec9)
-3. Fill in the required details: 
-    ▪ Subscription: Select the subscription under which the resource will be billed.
 
-    ![image](https://github.com/user-attachments/assets/cb36c9d5-7bab-40e4-8887-741afdb76e5e)
+   
+   
 
 
 
