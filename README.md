@@ -19,23 +19,14 @@ To ensure a secure, scalable, and user-friendly hosting solution for static web 
 Technologies and Azure Services Used
 Technologies
 
-- HTML, CSS, JavaScript (Static website files)
+1 HTML, CSS, JavaScript (Static website files)
 
-- Azure CLI (Optional, for command-line management)
+2 Azure CLI (Optional, for command-line management)
 
-- Azure Services
-
- Azure Storage Account:
-
-Used to host the static website and store website files in the $web container.
-
- Azure CDN (Optional):
-
-To enable HTTPS and improve performance through content delivery optimization.
-
- Azure DNS (Optional):
-
-For integrating custom domains and managing DNS records.
+3 Azure Services
+ - Azure Storage Account:
+ - Azure CDN (Optional):
+ - Azure DNS (Optional):
 
 Live Website and Resources
 Website Link: Mediplus
