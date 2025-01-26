@@ -19,21 +19,21 @@ To ensure a secure, scalable, and user-friendly hosting solution for static web 
 Technologies and Azure Services Used
 Technologies
 
-HTML, CSS, JavaScript (Static website files)
+- HTML, CSS, JavaScript (Static website files)
 
-Azure CLI (Optional, for command-line management)
+- Azure CLI (Optional, for command-line management)
 
-Azure Services
+- Azure Services
 
-- Azure Storage Account:
+ Azure Storage Account:
 
 Used to host the static website and store website files in the $web container.
 
-- Azure CDN (Optional):
+ Azure CDN (Optional):
 
 To enable HTTPS and improve performance through content delivery optimization.
 
-- Azure DNS (Optional):
+ Azure DNS (Optional):
 
 For integrating custom domains and managing DNS records.
 
