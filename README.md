@@ -33,16 +33,20 @@ Website Link: Mediplus
 
 Screenshots: Created Resource Group Screenshot
 
-Deployed VM 1 Screenshot
+Deployed Storage Account
 ![image](https://github.com/user-attachments/assets/0270e7bc-2138-4dcc-bfa9-e684ddfc915c)
 
-Deployed VM 1 Screenshot
+Updating Static Account
+![image](https://github.com/user-attachments/assets/3c6e17bb-f98d-43f0-a72c-ea02efdeca98)
 
+Overview Of Account
 ![image](https://github.com/user-attachments/assets/fbd02e4b-ef28-4a45-be2c-b7021b109ae2)
 
 Website Home Page Screenshot
-
 ![image](https://github.com/user-attachments/assets/e0819d07-9d68-4874-a6d3-387a184ad357)
+
+Conclusion
+By following the steps above, you can successfully host a static website on Azure Storage Account. This solution is ideal for lightweight, static content with minimal setup and maintenance. 
 
    
    
